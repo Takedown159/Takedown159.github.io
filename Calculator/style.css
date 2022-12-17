@@ -1,0 +1,40 @@
+h1 {
+    text-align: center;
+}
+p {
+    margin-left:10%;
+    margin-right:10%;
+    text-align: right;
+    background-color: white;
+    background-size:10px
+    
+}
+/*comment*/
+.container {
+    height: 250px;
+    width: 300px;
+    position: relative;
+    border: 5px solid rgb(0, 0, 0);
+    background-color: grey;
+    margin-left: 50%;
+    transform: translate(-50%,0);
+    
+    
+
+}
+.buttons {
+    /*Centering button in container*/
+
+    padding-left: 20px;
+    padding-top:10px;
+
+
+ 
+  
+}   
+/*Specifically targeting the button element instead of the buttons as a group*/
+button{
+    width:60px;
+    height: 30px;
+    margin: 2px;
+}

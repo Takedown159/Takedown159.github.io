@@ -1,0 +1,7 @@
+This is my First Javascript/HTML/CSS program
+Took me about 10 Hours, 5 Hours were trying to figure out how to get the buttons to return thier value and
+be used in Javascript. Overall a good learning experience, main thing learned was how to use the elements in HTML
+in javascript with the .getELement function and learned about Node Lists.(Still not enterly sure what they are)
+There are a few problems(listed in index.js) and it looks like garabo but it was a decent learning experience.
+
+Abandoned: Dec 16/2022
